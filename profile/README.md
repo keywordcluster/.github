@@ -2,8 +2,6 @@
 
 **Keyword Cluster** is an AI-powered **keyword clustering tool** that helps SEO professionals, marketers, and content creators discover **keyword clusters, long-tail keywords, and search intent insights** directly from search results.
 
-🌐 Website: https://keywordcluster.net
-
 Our goal is to simplify **keyword research and content strategy** by automatically grouping related keywords into meaningful clusters that improve SEO rankings and topical authority.
 
 ---
@@ -136,8 +134,6 @@ Follow Keyword Cluster for updates, tutorials, and SEO insights.
 ## 🚀 Chrome Extension
 
 Install the **[Keyword Cluster Chrome Extension](https://chromewebstore.google.com/detail/keyword-cluster-seo-keywo/ihpfcjdhdojaodkkghhkoiclhjjhamce)** and start discovering keyword clusters directly in search results.
-
-https://keywordcluster.net
 
 Free to try • No account required
 
