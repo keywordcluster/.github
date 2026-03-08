@@ -86,36 +86,11 @@ These features make it easier to build **SEO strategies based on search data**.
 
 ---
 
-## Learn More
-
-Explore the platform and discover keyword insights:
-
-🌐 https://keywordcluster.net
-
-Key SEO concepts you can learn:
-
-- Keyword Clustering
-- Long-Tail Keywords
-- Search Intent
-- Topic Clusters
-
----
-
 ## About KeywordCluster
 
 KeywordCluster helps marketers turn **search data into actionable SEO insights**.
 
 By combining **keyword clustering, search intent analysis, and long-tail keyword discovery**, the platform helps content creators build better strategies and improve search visibility.
-
----
-
----
-
-## 🌐 Website
-
-Keyword Cluster – AI-powered keyword clustering and SEO insights
-
-🔗 https://keywordcluster.net
 
 ---
 
@@ -160,7 +135,7 @@ Follow Keyword Cluster for updates, tutorials, and SEO insights.
 
 ## 🚀 Chrome Extension
 
-Install the **Keyword Cluster Chrome Extension** and start discovering keyword clusters directly in search results.
+Install the **[Keyword Cluster Chrome Extension](https://chromewebstore.google.com/detail/keyword-cluster-seo-keywo/ihpfcjdhdojaodkkghhkoiclhjjhamce)** and start discovering keyword clusters directly in search results.
 
 https://keywordcluster.net
 
