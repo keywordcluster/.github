@@ -106,3 +106,68 @@ Key SEO concepts you can learn:
 KeywordCluster helps marketers turn **search data into actionable SEO insights**.
 
 By combining **keyword clustering, search intent analysis, and long-tail keyword discovery**, the platform helps content creators build better strategies and improve search visibility.
+
+---
+
+---
+
+## 🌐 Website
+
+Keyword Cluster – AI-powered keyword clustering and SEO insights
+
+🔗 https://keywordcluster.net
+
+---
+
+## 🔎 Learn About SEO Concepts
+
+Explore detailed guides on keyword research and SEO strategy:
+
+- [Keyword Clustering](https://keywordcluster.net/keyword-clustering)
+
+- [Long-Tail Keywords](https://keywordcluster.net/long-tail-keywords)
+
+- [Search Intent](https://keywordcluster.net/search-intent)
+
+- [Topic Clusters](https://keywordcluster.net/topic-clusters)
+
+- [Frequest Asked Questions](https://keywordcluster.net/faqs)
+
+These pages explain important SEO concepts including **keyword clustering, long-tail keyword research, search intent analysis, and topic clusters for content strategy**.
+
+---
+
+## 🔗 Social & Community
+
+Follow Keyword Cluster for updates, tutorials, and SEO insights.
+
+- YouTube  
+  [https://www.youtube.com/@keywordcluster](https://www.youtube.com/@keywordcluster)
+
+- Pinterest  
+  [https://www.pinterest.com/keywordcluster/](https://www.pinterest.com/keywordcluster/)
+
+- GitHub  
+  [https://github.com/keywordcluster](https://github.com/keywordcluster)
+
+- Pinterest  
+  [https://www.pinterest.com/keywordcluster/](https://www.pinterest.com/keywordcluster/)
+
+- GitHub  
+  [https://x.com/keyword_cluster](https://x.com/keyword_cluster)
+
+---
+
+## 🚀 Chrome Extension
+
+Install the **Keyword Cluster Chrome Extension** and start discovering keyword clusters directly in search results.
+
+https://keywordcluster.net
+
+Free to try • No account required
+
+---
+
+## 💡 Keywords
+
+keyword clustering tool, keyword clustering SEO, keyword clustering chrome extension, keyword grouping tool, long tail keyword research, search intent analysis, SEO chrome extension, keyword research tool
