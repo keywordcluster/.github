@@ -1,4 +1,4 @@
-# Keyword Cluster – AI Keyword Clustering Tool for SEO
+## Keyword Cluster – AI Keyword Clustering Tool for SEO
 
 **Keyword Cluster** is an AI-powered **keyword clustering tool** that helps SEO professionals, marketers, and content creators discover **keyword clusters, long-tail keywords, and search intent insights** directly from search results.
 
